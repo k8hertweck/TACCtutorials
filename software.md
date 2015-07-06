@@ -1,7 +1,7 @@
 Using and installing software on TACC
 =====================================
 
-`module` commands
+`module` commands: help, load, avail, unload, swap, spider, ml (module list), reset
 
 compiling and installing software not already available
 
