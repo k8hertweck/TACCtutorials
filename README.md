@@ -11,3 +11,11 @@ A variety of resources are available, including high performance computing (HPC)
 ###Should you use TACC?
 If you are conducting analyses that involve large data files or require large amounts of processing/memory, your laptop or desktop computer may not be able to handle your analysis. Additionally, some software is only available for particular types of computers, or is difficult to install on your own machine. Some examples of common tasks in bioinformatics include (but are not limited to): next-generation sequencing data analysis, genome assembly/annotation, phylogenetics, and ecological modeling.
 
+###Resources
+Check out the following pages for information about:
+* [creating an account and obtaining allocations](account.md)
+* [logging on](logon.md)
+* [managing software](software.md)
+* [transferring data](dataTransfer.md)
+* [running analyses](runJob.md)
+* [shared resource etiquette](etiquette.md)
