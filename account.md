@@ -17,10 +17,8 @@ When you click the box next to Stampede, two new text boxes will appear for you 
 
 After you submit your allocation request, you will receive an automated email confirming the submission. It may take a few days for TACC staff to review your allocation, and they may have questions about your computing needs. Remember that they are there to help you!
 
-###Accessing remote resources
+###Managing your account
 
-online interface
-
-command line interface
+You can continue to create new projects and request additional allocations through the [TACC User Guide](https://portal.tacc.utexas.edu/user-guides). You can also add other users, such as your students and collaborators at other institutions, through this online interface. When you or other users begin running jobs, you can view and monitor usage for each project, too. This information is also useful if you need to increase an allocation (if you use all SUs provided) or renew an allocation (if the time alloted runs out).
 
 If you forget the password you register with your TACC account, you may reset it. However, it may take up to 30 minutes after reset for the new password to take effect, so be patient!
