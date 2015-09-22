@@ -1,11 +1,13 @@
 Submitting jobs and using SLURM resource manager
 ================================================
 
-Simple Linux Utility for Resource Management, or [SLURM](https://computing.llnl.gov/linux/slurm/)
+As described on the [Cluster etiquette](etiquette.md) page
 
-sbatch
+Simple Linux Utility for Resource Management, or [SLURM](https://computing.llnl.gov/linux/slurm/), is the software TACC uses to allocate computational resources throughout a cluster to individual users. 
 
-squeue
+`sbatch SCRIPT`
 
-scancel
+`squeue -u USERNAME`
+
+`scancel JOB#`
 
