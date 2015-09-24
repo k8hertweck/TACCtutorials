@@ -35,3 +35,5 @@ After successfully logging in, a standard login message will print to your scree
 * helpful tips about using TACC
 
 At the very bottom, you will see your command prompt, `$`, indicating that you are ready to start working on the command line.
+
+You can also visit [this page](https://cvw.cac.cornell.edu/environment/LoggingOn?AspxAutoDetectCookieSupport=1) to learn how to connect to Stampede from a Windows machine using PuTTY.
